@@ -21,6 +21,7 @@ ScreenSound é uma aplicação em Java que gerencia um catálogo de artistas e m
 
 ## 📁 Estrutura do Projeto
 
+```txt
 screensound/
 ├── model/                # Entidades JPA (Artista, Musica, TipoArtista)
 ├── principal/            # Classe Principal (interface de execução via console)
@@ -28,6 +29,7 @@ screensound/
 ├── service/              # Serviço de integração com a API do ChatGPT
 ├── resources/            # Arquivo de configuração (application.properties)
 └── ScreensoundApplication.java  # Classe main (Spring Boot)
+```
 
 
 ## ⚙️ Como Executar o Projeto
